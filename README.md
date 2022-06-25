@@ -56,7 +56,7 @@ Autumn Heyman https://github.com/autumnheyman
 
 Erin Weaver https://github.com/gaiasfyre
 
-Georgia Miller https://github.com/ginblanco
+Georgia Miller https://github.com/gmmiller94
 
 Joseph Raetano, Instructor
 
